@@ -4,8 +4,6 @@ A simple and intuitive **to do list** to help you manage your daily tasks effort
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![To Do List](https://raw.githubusercontent.com/sandra-0492/to-do-list/refs/heads/main/images/Screenshot.png)
-
 ## Features  
 
 - Add new tasks quickly and easily.
@@ -26,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![To Do List Gif](https://raw.githubusercontent.com/sandra-0492/to-do-list/refs/heads/main/images/to-do-list-gif.gif)
+![To Do List](https://raw.githubusercontent.com/sandra-0492/to-do-list/refs/heads/main/images/Screenshot.png)
 
 [Link to the Demo website](https://sandra-0492.github.io/to-do-list/)
 
@@ -35,6 +33,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Available Scripts
 
