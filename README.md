@@ -24,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![To Do List](https://raw.githubusercontent.com/sandra-0492/to-do-list/refs/heads/main/images/Screenshot.png)
+![To Do List](https://github.com/sandra-0492/todos-list-react/blob/main/public/Screenshot.png?raw=true)
 
 [Link to the Demo website](https://sandra-0492.github.io/to-do-list/)
 
