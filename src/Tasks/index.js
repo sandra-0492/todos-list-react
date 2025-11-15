@@ -1,4 +1,3 @@
-import React from "react";
 import "./style.css";
 
 const Tasks = ({ tasks, hideDoneTasks }) => (
@@ -10,8 +9,7 @@ const Tasks = ({ tasks, hideDoneTasks }) => (
           task.done && hideDoneTasks ? " tasks__item--hidden" : ""
         }`}
       >
-        <button 
-        className="tasks__button tasks__button--toggleDone">
+        <button className="tasks__button tasks__button--toggleDone">
           {task.done ? "✓" : ""}
         </button>
         <span
