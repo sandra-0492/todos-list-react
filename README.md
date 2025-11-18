@@ -1,6 +1,6 @@
 # To Do List
 
-![To Do List](https://github.com/sandra-0492/todos-list-react/blob/main/public/Screenshot.png?raw=true)
+![To Do List](https://github.com/sandra-0492/todos-list-react/blob/main/Screenshot.png?raw=true)
 
 A simple and intuitive **to do list** to help you manage your daily tasks effortlessly.
 
@@ -28,7 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Link to the Demo website](https://sandra-0492.github.io/todos-list-react/)
 
-![To Do List](https://github.com/sandra-0492/todos-list-react/blob/main/public/to-do-list-gif.gif?raw=true)
+![To Do List](https://github.com/sandra-0492/todos-list-react/blob/main/to-do-list-gif.gif?raw=true)
 
 ## Technologies
 
