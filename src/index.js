@@ -5,6 +5,8 @@ import { GlobalStyle } from "./GlobalStyle";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { theme } from "./theme";
+import { configureStore } from "@reduxjs/toolkit";
+import { type } from "@testing-library/user-event/dist/type";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
