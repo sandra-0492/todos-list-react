@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Add new tasks quickly and easily.
 
-- View a list of all your tasks in one place.
+- View the list of existing tasks .
 
 - Mark tasks as completed or remove them when done.
 
@@ -36,6 +36,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - CSS
 - JavaScript
 - React
+- React Router
 
 ## Available Scripts
 
