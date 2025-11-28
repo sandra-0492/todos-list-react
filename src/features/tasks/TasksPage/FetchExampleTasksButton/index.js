@@ -7,7 +7,7 @@ export default () => {
   const loading = useSelector(selectLoading);
 
   return (
-    <Button disabled={loading} onClick={() => dispatch(fetchExampleTasks())}>
+    <Button onClick={() => dispatch(fetchExampleTasks())} disabled={loading}>
       {
         loading 
             ? "Ładowanie..." 
